@@ -1,0 +1,31 @@
+6
+6.73 Adams John Quincy
+1
+Brown Frank F        37 Elm Street  Lawrence     7859834162 17.26
+8
+2133878285
+4
+6033758957
+2
+9136235264 Smith Mary Isabel    87 Spruce Street Topeka   24.76
+6
+247.36 3145867610
+1
+Anderson Brenda      386 Maple Lane Baltimore  7116281819  0.00 
+3
+Johnson James J
+7
+Zwagerman Lance
+5
+10.54 2138721674
+10
+16
+9
+2
+11
+913
+12
+
+
+
+

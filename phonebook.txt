@@ -1,0 +1,200 @@
+Dill Donald  F       Burke Rd Whitehall          2133575507   264.13
+Geis Leitha M        5719 Trotter Rd Clarksvil   7852863117   25.87
+Adams John Quincy    Quincy Massachusetts        6033758957   359.76
+Sterger Henry A      2952 Normandy Drive         8164656724   1.27
+Lyles Michael N      13013 Stagecoach Road       4017769173   1465.98
+Goglia Michael C III 11429 Rowley Road           4067924667   3.57
+Coleman A B          5354 Brook Way Columbia     3157308194   243.00
+Burgess William L    1295 Creek Road Pasadena    2134372531   37.53
+Davis Ben H          108 Kuethe Rd Glen Burnie   6457605823   14.80
+Hill Clarence W      2601 Madison                6174621799   45.87
+Mezoff William       1501 Whistler Rd            7928388715   65.78
+Perkins Pancake Hse  9545 Belair Rd              6252564918   650.00
+Fish Aaron           3505 Langohr Rd             7859225684   13.56
+Regrut E             191 Plymouth Rd             4187684887   98.00
+Sager Scott          726 St Johns Rd             4454358372   75.00
+Thoms Henry          2708 Bauerwood Rd           6014446147   15.90
+Fischer Harry        3223 Chesly Av              6024261822   513.70
+Thomson Henry        1204 Carroll                2138370728   10.87
+Zwagerman Lance      1500 Rocky Road             4013848957   65.78
+Rider Jno Jr         Phoenix                     6516660812   47.90
+Hill D A             1779 Shaftsbury Av Crofto   7517211728   35.78
+Ridgely Robert L     184 Pittson Circle          8513569273   18.34
+Rutherford Albert    3204 Chrome Hill Road       3556925286   23.87
+Seiler Clark         908 Yvette Dr Forest Hill   3758790390   34.50
+Hilkner Robert L     York Rd                     6172524194   1.65
+Tyson Raymond A      119 Randall St              4088374235   17.35
+Gearhart Chas B Jr   805 Cliffedge Road          7854840390   5.89
+Gross Steven T       9305 Meadow Hill Rd         7854654612   17.60
+Curtis Cynthia       15 Meadowlark Lane          2138721674   25.00
+Burgess William S    437 Blossom Tree Ct         8047577549   34.98
+Hutson Wm H          2911 Scherer Av             8146612278   34.50
+King Sarah           3547 Greenmount Av          8284676815   14.56
+Hill Frank E         21 S Calvert St             8596851106   13.45
+Burkart Lewis E      2917 Hillcrest Av           2116614655   36.87
+Kozak John Jr        3735 Butler Rd              4015265189   45.78
+Ludlam John J        136 Lee Dr. Annapolis       2682635074   13.45
+Matthai Louis R      8009 W Wynbrook Rd          2722856653   554.90
+Foreman Ronald C     Beechwood Rd Essex          2836867492   147.12
+Milewski Walter P    1628 Hazel St               2943550955   12.34
+Morfoot Elizabeth E  609 Harding Place           7774677793   12.76
+Mugnai Lawrence L    1346 Cedarcroft Rd          7294333092   34.50
+Forestell Thomas F   5712 Edmonston Rd           7927443244   0.00
+Norton Edwin E       28 Shore Rd Edgemere        7924770644   34.56
+Perkins Robert       3302 Upton Rd Carney        8648824272   16.90
+Regiec John P        3810 Leo Street             2133540179   5.89
+Foreman Ronald C     3926 Foster Av              6253570353   32.58
+Schiller George      3319 Marnat Rd              8684864591   12.34
+Elliott George       Morris St Oxford            5132265277   43.71
+Ashton Wayne         Hoopersville                6173973544   12.61
+Muth John C          1333Cedarcroft Rd           5753236130   26.31
+Stockett Charles L   679 Bridgeman Terrace       6753210666   87.87
+Edwards Roland       Williams Av Rockhall        6196397571   24.78
+Brannock Amanda      443 High St Cambridge       8462282329   34.21
+Mutch George M       5668 Stevens Forest Rd      7859972093   123.45
+Stocksdale J M       1674 Kirkwood Road          1232651494   13.56
+Jamar Robert D       Haven Rd Rockhall           4016397456   6.98
+Bradley Brent S      Oxford                      1452265675   21.45
+Salgado Joseph       7134 Martell Av Dundalk     1782825175   5.34
+Teano Leo J          Belvedere Heights           1836473976   12.54
+Jaworski Anne A      601 Williams  Cambridge     1472284443   15.60
+Bramble Joseph M     Chester Harbor              2477784877   16.73
+Salkin Benjamin      5715 Park Heights Av        7857811125   68.12
+Tecumshe Tribe 108   3602 Hickory Av             2134679211   589.90
+Shiflet Robert H     Skipper Lane Chester        3476436237   17.45
+Nichols Charlotte    Williamsburg Church Rd      2229434947   43.12
+Johnson James J      4713 Harrison Av            3333821674   75.13
+Black Richard W      1701 Plaza Circle           4446790214   13.78
+Shores Wilson S      Chew Ave                    5557452904   15.50
+Newman Willard       Burrsville Rd  Denton       6664792167   6.72
+Salisbury Janet      700 Glen Allen Dr           7772332285   16.95
+Blackburn Bennett M  7310 Conley Street          2112854053   45.45
+Yaeger Albert F      131 S Harrison  Easton      3118224986   45.60
+Shields Albert       Greensboro                  4114828431   71.56
+Williams Richard F   6157 Shining Rock           5119924950   38.43
+Brown Debra          2824 Overland Ave           6172541606   13.57
+Yetter Thomas H      Crystal Beach Manor         6112752337   82.00
+SHORE FEED CO        7545367                     7117545367   73.68
+Williams Rita M      3314 Fairfield Rd           7856645084   1.56
+Brown Edward D       3224 Gwynns Falls Pksy      2503839580   45.90
+Wye Mills Market     Wye Mills                   3508278188   67.80
+Seymour Sonja Mrs    439 South St  Easton        2138226975   13.56
+Zapf George F        9103 Bowring Rd             4502568711   15.89
+Cody R J             8406 Snowdon Oaks Pl        5509531645   65.56
+Allen Theodore       111 Grace Street            6607455156   13.75
+Wells Sara           Chesapeake City             7708855538   31.72
+Robinson Raymond A   47 Clearview Ct             2133878285   46.98
+COFFEE PERK CO       Pikesville                  4014842575   25.60
+Anders Glenn W       Matthewstown Rd Denton      2694793437   13.45
+Weaver Joseph        Hell's Half Acre  Oxford    3692265519   7.31
+Zambreny Robert W    244 Old Line Av Laurel      4699532765   0.00
+Fletcher Geo T       1241 Sargeant               4796851953   678.90
+Barnes Ronald        Cornersville                5792282545   156.00
+Werther James        Galena                      7856485792   45.61
+Sorrell Almon T      2103 Curtis Ct Sykesville   6797817160   57.87
+Flesher Austin       38-D Cool Breeze Drive      6806871166   12.56
+Bambary James R      Castle Marina Chester       6176432149   37.84
+Wilson Albert F      Starkey's Corner            7415566732   172.65
+Ruth Ruby B          4308 White Oak Ct           6413742523   82.17
+Genova Pizza         Loch Ridge Shop Ctr         5416689150   57.98
+Condon Vilma Mrs     312 Henry St Cambridge      4412285352   13.45
+Hurlock Philip M     Church Hill                 3415566187   3789.31
+Ruthrauff E          232 Sudbrook Lane           2414866282   3.76
+Gentile Giro         7329 Manchester Rd          4012847268   14.80
+Connolly M Kay       103 Commerce St Centervil   2687582847   12.67
+Hughes Jessie J      Queenstown                  3688277143   12.76
+Owings Marion E      112 Sunnyking Dr            4688330322   13.76
+Hammond John         2208 Pratt Street           5683274091   37.50
+Fountain Denise      Ridgely                     6686342868   12.56
+Hart Hubert          212 E Appleby  Cambridge    7682280684   51.62
+Oxenrider Terry L    115 Yawmeter Dr             8686862978   5.34
+Hammett Elwood I     209 Ridgely Glen Burnie     2237619288   456.78
+Fox Michael          Beauvoir Trappe             3234763891   75.89
+Hatch George E       Tower Gardens Stevensvll    2136432814   21.21
+McArthur Hazel       2304 Winchester St          4235665929   17.23
+Johnson Matt J       418 Bear Branch Rd          7927955879   13.57
+Harding Guy M Jr     Cloverdale Rd  Hurlock      5239434645   5.67
+Gifford George       American Corners            6237545291   41.38
+McBarron William H   957 Lynch Dr Arnold         7237571531   13.21
+Johnson Norman L     2209 N Dukeland St          7924622209   78.00
+Hampp Charles W      615 S Washington  Easton    7858222975   31.25
+Ghysels David G      Deep Water Pt  Easton       8238228623   7.92
+King William C       2421 Lakeview Av            2476694272   51.67
+Kurland Jacob Rabbi  Holmes Ave                  4015234375   12.45
+Kinnamon Lemuel Jr   Murphy Rd  Ingleside        3477581382   6.89
+Finger Raymond       Marydel                     4474828676   19.98
+King William C       401 Montrose Catonsville    5477442416   38.19
+Kurtz William D      6318 Falkirk Rd             6474357034   56.78
+Kleppinger C W Jr    534 Aurora St  Easton       7858223518   45.76
+Fisher James L       Anchorage  Easton           7478227018   15.62
+Heidecker M c        8627 Oak Rd                 8476887027   10.56
+Loftus V A           181 Cherrydell Rd           2617883282   6.80
+Lee Sang Chul        Calvert Rd  Chester         3616436170   13.45
+ELLIOTT SPORTING     Coleman                     4613485515   75.31
+Hegarty Robert       230 E Montgomery St         6253852840   5.90
+Loeffler Jno A       1712 Glen Keith Blvd        6616611505   13.56
+Lawton Ken           1217 St Louis Av  Ocean     5612896289   1456.78
+Elborn William O     Barclay                     7614383211   7.93
+Grant George H       7113 Talisman Ln            8615966908   13.25
+Price Richard O ii   111 Palmetto Dr Edgewood    2136765187   14.57
+McGinn William       104 Killarney Rd  Cambrge   3132281273   455.21
+Dyott S Larry        Burrsville                  4134826487   81.45
+Granny's Goodies     8101 Main St Ellicott       5134653705   6892.25
+Ransel James H       409 Walcott Rd              6136683366   1234.56
+McDowell Carol Ann   Kennedyville                6173485482   16.75
+DUNNOCK'S MARKET     201 Willis                  2132284780   31.45
+Flaxman Roslyn       3705 Crossleigh Ct          7136550305   47.90
+Ranieri Rudolph L    816 Eutaw                   9137286140   76.90
+Skeie Dean           200 W Chew Av  St Michael   9137455331   12.34
+Dudley H E           Water St  St Michaels       9177455340   819.43
+Fleegle Harold J     1939 Victory Dr Arbutus     9232428179   67.89
+Sisco Nelson         Jones Av  Centreville       9297581664   34.98
+Catlett Charles L    Brannock's Neck Rd          8292288167   9.43
+Estvold J            3100 St Paul St             4012358849   15.70
+James Malachi        Corsica Neckn               4017581486   52.39
+Travers Wilmalee     Hoopersville                8173973628   12.87
+Caulk Charles H      Marling Farms  Chester      7176433123   1111.11
+Esterson Lois Mrs    2300 Gerard Ct              7854861012   45.67
+Izzaroni Sandra      Elliott Island              5133763359   4.61
+Tribeitt Jeffrey L   Marydel                     5174828932   155.90
+Quillen I T          Denton Rd Greensboro        5234826739   16.73
+Estep Roscoe Jr      7528 Holaboard Av           5292885590   16.25
+James Wayne          Beaver Run Trailer Pk       6172287340   6.91
+Whittington Richard  Rio Vista                   4137455227   10.00
+Racz Stephen J       Caroline Acres Henderson    4174826057   15.72
+Andrews Hiram E      Jerome Av                   4232565994   65.30
+Jastrzab Stanley     234 Brookwood  Easton       4298225765   1289.73
+Whitlock C E         636 Elizabeth St  Easton    4318226435   16.41
+Seger George         Waverly                     7858224072   63.91
+Andraka Romuald K    9214 Lawnview La Laurel     2137765504   13.75
+Wunder James A       Romancode                   2176435483   46.78
+Tall Mace Jr         416 Talbot Av Cambridge     2192281458   7.13
+Bell E J             801 Karen Ct Laurel         2237352725   75.00
+Yerpe Robert A       Rock Hall Av Rock Hall      2396397900   0.00
+SHERIFFS OFFICE      Federal & West St           4018221020   614.95
+Perkins Ann I        59 Wistful Vista            3145867610   14.76
+Jallade Louis E      Radcliffe Av St Michaels    1137455387   16.73
+Wynn John W          Hyeland Estates             1174826186   7.13
+Trice Thomas L IV    110 Franklin St Denton      1194791595   78.13
+Beling Louise A      435 Imla St                 1236339265   15.90
+Zweemer James Sr     Marydel                     1294828094   3456.78
+WCTR                 Flatland Rd Chestertown     1317781530   671.89
+Cureton Carrie M     1546 Argyle Av              1376693950   0.00
+Young Gloria         617 Wells St Cambridge      2512282792   13.71
+Wainwright Ray E     Rhodesdale                  3519434587   31.45
+Cunningham Patrick   610 Prince George St        4517251796   27.89
+Acme Markets Inc     Hurlock                     5519434501   234.93
+Dew Harold C         Maple Av  Preston           6516732494   17.42
+Davis Bernie C       5300 Haddon Av              4015422333   5.67
+Jarrett Ralph        Sharptown-Eldorado Rd       7518833631   14.83
+Abner Louise         Marsh Creed Rd  Preston     8516732442   31.31
+XEROX                Reisterstown Rd             9515873456   9999.99
+Davis Archibald A    4420 Marble Hall Rd         9674338625   615.00
+Atwell J F           Love Pt Stevensville        9456436447   2.53
+DeVaughn Alberta     Dutchtown Still Pond        2133485042   61.34
+Nichols Daisy Mrs    Wittman                     4197455442   76.34
+Puleo Frank S        Howell Point Rd             5193482142   123.76
+Inzer Gary           Fox Meadow Rd Queen Anne    6197582563   63.81
+Jamar Richard        RockHall                    6176397824   9.12
+Reagan Carl          Federalsburg                4017548478   14.93
+Rahim Mohamed J      142 Calvert St Easton       7858224918   54.91
