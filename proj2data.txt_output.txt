@@ -1,0 +1,41 @@
+----- Option 6 -----
+Original balance: 359.76
+New balance: 366.49
+----- Option 1 -----
+Brown Frank F        was inserted into the database.
+----- Option 8 -----
+Robinson Raymond A  's bill: 46.98
+----- Option 4 -----
+Adams John Quincy    was removed from the database.
+Final bill: 366.49
+----- Option 2 -----
+Smith Mary Isabel    was inserted into the database.
+----- Option 6 -----
+Original balance: 14.76
+New balance: 262.12
+----- Option 1 -----
+Anderson Brenda      was inserted into the database.
+----- Option 3 -----
+Johnson James J      was removed from the database.
+Final bill: 75.13
+----- Option 7 -----
+Zwagerman Lance     's bill: 65.78
+----- Option 5 -----
+Original balance: 25
+New balance: 14.46
+----- Option 10 -----
+Bills for day 16: 
+Elliott George      Morris St Oxford         43.71
+Stockett Charles L  679 Bridgeman Terrace    87.87
+Bambary James R     Castle Marina Chester    37.84
+Kurland Jacob Rabbi Holmes Ave               12.45
+Wainwright Ray E    Rhodesdale               31.45
+----- Option 9 -----
+Robinson Raymond A  47 Clearview Ct          
+Weaver Joseph       Hell's Half Acre  Oxford 
+Elborn William O    Barclay                  
+Anderson Brenda     386 Maple Lane Baltimore 
+----- Option 11 -----
+Ranieri Rudolph L   9137286140
+Skeie Dean          9137455331
+Smith Mary Isabel   9136235264

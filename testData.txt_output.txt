@@ -1,0 +1,62 @@
+----- Option 1 -----
+Adam Heald           was inserted into the database.
+----- Option 2 -----
+Brian McClanahan     was inserted into the database.
+----- Option 5 -----
+Original balance: 100.56
+New balance: 90.56
+----- Option 5 -----
+Original balance: 90.56
+New balance: 40.56
+----- Option 7 -----
+Adam Heald          's bill: 40.56
+----- Option 8 -----
+Brian McClanahan    's bill: 9874.02
+----- Option 9 -----
+Rutherford Albert   3204 Chrome Hill Road    
+Elliott George      Morris St Oxford         
+Bramble Joseph M    Chester Harbor           
+Flesher Austin      38-D Cool Breeze Drive   
+Adam Heald          2705 NE Chester          
+----- Option 3 -----
+Brian McClanahan     was removed from the database.
+Final bill: 9874.02
+----- Option 4 -----
+Adam Heald           was removed from the database.
+Final bill: 40.56
+----- Option 9 -----
+Robinson Raymond A  47 Clearview Ct          
+Weaver Joseph       Hell's Half Acre  Oxford 
+Elborn William O    Barclay                  
+----- Option 10 -----
+Bills for day 16: 
+Elliott George      Morris St Oxford         43.71
+Stockett Charles L  679 Bridgeman Terrace    87.87
+Bambary James R     Castle Marina Chester    37.84
+Kurland Jacob Rabbi Holmes Ave               12.45
+Wainwright Ray E    Rhodesdale               31.45
+----- Option 11 -----
+Ranieri Rudolph L   9137286140
+Skeie Dean          9137455331
+----- Option 1 -----
+Brown Frank F        was inserted into the database.
+----- Option 8 -----
+Robinson Raymond A  's bill: 46.98
+----- Option 4 -----
+Adams John Quincy    was removed from the database.
+Final bill: 359.76
+----- Option 2 -----
+Smith Mary Isabel    was inserted into the database.
+----- Option 6 -----
+Original balance: 14.76
+New balance: 262.12
+----- Option 1 -----
+Anderson Brenda      was inserted into the database.
+----- Option 3 -----
+Johnson James J      was removed from the database.
+Final bill: 75.13
+----- Option 7 -----
+Zwagerman Lance     's bill: 65.78
+----- Option 5 -----
+Original balance: 25
+New balance: 14.46

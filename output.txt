@@ -1,0 +1,42 @@
+proj2data.txt
+Adam Heald           was inserted into the database.
+Brian McClanahan     was inserted into the database.
+Original balance: 100.56
+New balance: 90.56
+Original balance: 90.56
+New balance: 40.56
+Adam Heald          's bill: 40.56
+Brian McClanahan    's bill: 9874.02
+Rutherford Albert   3204 Chrome Hill Road    
+Elliott George      Morris St Oxford         
+Bramble Joseph M    Chester Harbor           
+Flesher Austin      38-D Cool Breeze Drive   
+Adam Heald          2705 NE Chester          
+Brian McClanahan     was removed from the database.
+Final bill: 9874.02
+Adam Heald           was removed from the database.
+Final bill: 40.56
+Robinson Raymond A  47 Clearview Ct          
+Weaver Joseph       Hell's Half Acre  Oxford 
+Elborn William O    Barclay                  
+Bills for day 16: 
+Elliott George      Morris St Oxford         43.71
+Stockett Charles L  679 Bridgeman Terrace    87.87
+Bambary James R     Castle Marina Chester    37.84
+Kurland Jacob Rabbi Holmes Ave               12.45
+Wainwright Ray E    Rhodesdale               31.45
+Ranieri Rudolph L   9137286140
+Skeie Dean          9137455331
+Brown Frank F        was inserted into the database.
+Robinson Raymond A  's bill: 46.98
+Adams John Quincy    was removed from the database.
+Final bill: 359.76
+mith Mary Isabel     was inserted into the database.
+Original balance: 14.76
+New balance: 262.12
+Anderson Brenda      was inserted into the database.
+Johnson James J      was removed from the database.
+Final bill: 75.13
+Zwagerman Lance     's bill: 65.78
+Original balance: 25
+New balance: 14.46

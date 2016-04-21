@@ -1,0 +1,43 @@
+1
+Adam Heald           2705 NE Chester             7852217646      100.56
+2
+5248965213 Brian McClanahan     The Towers                9874.02
+5
+10 7852217646
+5
+50 Adam Heald
+7
+Adam Heald
+8
+5248965213
+9
+45
+3
+Brian McClanahan
+4
+7852217646
+9
+2
+10
+16
+11
+913
+1
+Brown Frank F        37 Elm Street  Lawrence     7859834162 17.26
+8
+2133878285
+4
+6033758957
+2
+9136235264 Smith Mary Isabel    87 Spruce Street Topeka   24.76
+6
+247.36 3145867610
+1
+Anderson Brenda      386 Maple Lane Baltimore  7116281819  0.00
+3
+Johnson James J
+7
+Zwagerman Lance
+5
+10.54 2138721674
+12
